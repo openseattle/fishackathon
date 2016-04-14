@@ -1,0 +1,29 @@
+html, body {
+  background-color: #fefefa;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+.openseattle-logo {
+  display: block;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.openseattle-logo img {
+  width: 80px;
+  height: auto;
+}
+
+.page img {
+  max-width: 100%;
+}
+
+.container {
+  max-width: 700px;
+  width: 100%;
+  margin: 150px auto 50px auto;
+}
