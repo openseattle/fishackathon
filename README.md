@@ -1,8 +1,8 @@
 ---
-title: "Fishackathon Seattle Resources"
 permalink: "/"
-layout: default
 ---
+
+# Fishackathon Seattle Resources
 
 Participating in the upcoming Fishackathon?
 

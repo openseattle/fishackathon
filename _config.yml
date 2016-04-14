@@ -2,3 +2,9 @@ title: Fishackathon Seattle Resources
 permalink: /posts/:title
 baseurl: ''
 exclude: [node_modules, tmp, bin]
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
