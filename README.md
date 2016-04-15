@@ -16,6 +16,8 @@ This page lists resources you can use to build your project. Have anything to ad
 
 ## Data
 
+- [Ocean Health Index](http://ohi-science.org/)
+- [RAM Legacy Stock Assessment Data](http://ramlegacy.org)
 - [Sea Around Us](http://www.seaaroundus.org)
   - [Tools & Data](http://www.seaaroundus.org/data/)
   - [GitHub](https://github.com/seaaroundus)
