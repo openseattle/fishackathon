@@ -1,6 +1,6 @@
 {
   "name": "fishackathon",
   "scripts": {
-    "bundle": ""
+    "start": "jekyll serve -w"
   }
 }
