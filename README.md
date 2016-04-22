@@ -10,8 +10,6 @@ Fishackathon is a chance to develop innovative ways to collect and analyze data 
 
 This page lists resources you can use to build your project. Have anything to add? [Submit resources via GitHub.](http://github.com/openseattle/fishackathon)
 
-<a class="button" href="http://fishackathon.co/seattle">RSVP for Fishackathon</a>
-
 ---
 
 ## Key Themes
@@ -79,6 +77,10 @@ Looking for ideas & inspiration for your project? Read these articles:
 ---
 
 ## Problem statements
+
+You can [download a PDF](https://challenges.s3.amazonaws.com/fishackathon/2016%20Fishackathon%20Final%20Problem%20Statements.pdf) of the problem statements with detailed information.
+
+### Problem statement descriptions
 
 With offshore fishing becoming more popular around the world, and crews encountering species we know little about but are economically important, it’s important to collect specific data that will benefit the fisheries. Even some of the most experienced crews may not always recognize what species of fish they encounter, or their size. Currently, there isn't a truly accurate solution that isn’t lethal. Crews currently land the fish and use an equation to measure size - square the girth of the fish and multiply by length and then divide by 800. Tens of thousands of people are involved in the fishing industry that can be utilized to help record data to achieve accurate counts of the correctly identified species. This will not only assist in providing proof that the fish they caught (and let go) was actually the size they said as well as the species of fish they thought. With the opportunity for this used by both recreational and commercial industries, this can help scientists and regional fisheries management organizations better understand the stocks of many of these pelagic species
 
@@ -158,5 +160,3 @@ Seattle Fishackathon is possible thanks to support from:
 ![sponsors](https://cdn.evbuc.com/eventlogos/166311726/fishackathonlogos.png)
 
 ---
-
-<a class="button" href="http://fishackathon.co/seattle">RSVP for Fishackathon</a>
