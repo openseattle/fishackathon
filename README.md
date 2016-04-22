@@ -27,6 +27,14 @@ This page lists resources you can use to build your project. Have anything to ad
 
 ## Data
 
+- [Conservation databases from IUCN (including Red List)](https://www.iucn.org/knowledge/tools/databases)
+- MPA atlas: [mpatlas.org/data](http://www.mpatlas.org/data/)
+- Food and Agriculture Organization of the United Nations
+  - [FAO catch, aquaculture production and trade
+statistics](http://www.fao.org/fishery/statistics/en)
+- [Marine Ecoregions of the world](http://www.worldwildlife.org/publications/marine-ecoregions-of-theworld-a-bioregionalization-of-coastal-and-shelf-areas)
+- [The Nature Conservancy's core global spatial data](http://maps.tnc.org/gis_data.html) (in GIS and Google Earth KML formats)
+- [Ecosystem services valuation database](http://www.fsd.nl/esp/80763/5/0/50)
 - [Ocean Health Index](http://ohi-science.org/)
 - [RAM Legacy Stock Assessment Data](http://ramlegacy.org)
 - [Sea Around Us](http://www.seaaroundus.org)
